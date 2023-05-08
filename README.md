@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Analytics Course in EduBridge**
 
-- 💬 Ask me about **Python , SQL**
+- 💬 Ask me about **Python , SQL,Data Analytics**
 
 - 📫 How to reach me **riteshpm1998@gmail.com**
 
