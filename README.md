@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Meshram</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right"alt="coding"width="400"src="![image](https://github.com/RITESH-MESHRAM/Ritesh-Meshram/assets/126696338/522cf36d-d8f1-4892-acb8-a058c93b67d4)
+<img align="right"alt="coding"width="400"src="![image](https://github.com/RITESH-MESHRAM/Ritesh-Meshram/assets/126696338/c78cce6f-7b62-48ae-a178-38743c394891)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-meshram&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-meshram" /> </p>
