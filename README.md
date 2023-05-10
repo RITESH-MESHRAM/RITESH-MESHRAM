@@ -1,4 +1,4 @@
-![logo](https://github.com/RITESH-MESHRAM/RITESH-MESHRAM/blob/main/Github%20Banner.png)
+![logo](https://github.com/RITESH-MESHRAM/Ritesh-Meshram/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ritesh Meshram</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right"alt="coding"width="400"src="![image](https://github.com/RITESH-MESHRAM/Ritesh-Meshram/assets/126696338/c78cce6f-7b62-48ae-a178-38743c394891)">
