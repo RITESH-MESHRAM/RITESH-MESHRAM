@@ -1,17 +1,15 @@
-![logo](https://www.canva.com/design/DAFimVC1WUI/ik5MVJMhyauOcFCjSHj9Ng/view?utm_content=DAFimVC1WUI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
 <h1 align="center">Hi 👋, I'm Ritesh Meshram</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RITESH-MESHRAM&label=Profile%20views&color=0e75b6&style=flat" alt="RITESH-MESHRAM" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-meshram&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-meshram" /> </p>
 
 - 🔭 I’m currently working on **Car Rented System Project**
 
 - 🌱 I’m currently learning **Data Analytics Course in EduBridge**
 
-- 💬 Ask me about **Python , SQL, Data Analytics**
+- 💬 Ask me about **Python , SQL ,Data Analytics**
 
 - 📫 How to reach me **riteshpm1998@gmail.com**
 
@@ -19,6 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://kaggle.com/ritesh p meshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ritesh p meshram" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ritesh meshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ritesh meshram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh-meshram&show_icons=true&locale=en" alt="ritesh-meshram" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-meshram&" alt="ritesh-meshram" /></p>
-
