@@ -1,3 +1,4 @@
+![logo](https://www.canva.com/design/DAFimVC1WUI/ik5MVJMhyauOcFCjSHj9Ng/view?utm_content=DAFimVC1WUI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <h1 align="center">Hi 👋, I'm Ritesh Meshram</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
