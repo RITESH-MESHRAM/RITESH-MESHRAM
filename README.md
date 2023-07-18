@@ -1,3 +1,4 @@
+![logo](https://github.com/IamHiteshMhatre/IamHiteshMhatre/blob/main/GitHubHeader.png)
 <h1 align="center">Hi 👋, I'm Ritesh Meshram</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
